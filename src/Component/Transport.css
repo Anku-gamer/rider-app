@@ -1,0 +1,7 @@
+.imageStyle{
+    height:100px;
+    weight:50px;
+    border: 1px solid black;
+    border-width: 5px;
+    border-radius: 10px;
+}
